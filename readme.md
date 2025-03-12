@@ -13,7 +13,7 @@ go version
 
 Clone repository ini menggunakan git:
 ```sh
-git clone <repo-url>
+git clone https://github.com/3ggie-AB/go-helloworld.git
 cd go-helloworld
 ```
 
